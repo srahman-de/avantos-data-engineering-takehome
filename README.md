@@ -19,4 +19,6 @@ score =
 
 ## How to run
 
+Requires Python 3.x
+
 python computePolkadotScore.py
